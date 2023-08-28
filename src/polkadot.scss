@@ -31,11 +31,11 @@ $btn-border-radius-sm: 1.5rem;
 }
 
 .text-button:hover {
-  color: #c40061 !important;
+  color: #0300c4 !important;
 }
 
 .link-button:hover {
-  color: #c40061 !important;
+  color: #0300c4 !important;
 }
 
 .link-button:focus {
@@ -47,7 +47,7 @@ $card-border-radius: 20px;
 
 // Set booststrap custom theme
 $theme-colors: (
-  'primary': #e6007a,
+  'primary': #0300c4,
 );
 
 $gray-100: #f9fafb;
@@ -84,7 +84,7 @@ $input--color: $gray-900;
 $input-height: 2.5rem;
 
 .danger {
-  color: #e6007a;
+  color: #0300c4;
   margin-left: 0.5rem;
   margin-top: 0.5rem !important;
 }
